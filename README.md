@@ -1,4 +1,4 @@
-jvm-common
-==========
+common
+======
 
-Shared code for JVM projects
+Shared code libraries for projects
